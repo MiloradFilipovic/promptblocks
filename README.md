@@ -16,7 +16,7 @@ Minimal (`node.js` + `git`) theme for [oh-my-zsh](https://ohmyz.sh/).
 If you are using a Node.js version manager, like [nvm](https://github.com/nvm-sh/nvm), node version in the prompt won't be updated when you switch. 
 
 In order to achieve this, you can create a custom function in your `~/.zshrc` file that will source your zsh config every time you change Node version.
-Note that, depending on your configuration, this will be slow down the original command execution.
+Note that, depending on your configuration, this will slow down the original command execution.
 
 If using nvm, this function can look like this:
 ```zsh
