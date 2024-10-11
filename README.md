@@ -5,7 +5,6 @@ Minimal, front-end oriented, theme for [oh-my-zsh](https://ohmyz.sh/).
 
 ![image](https://github.com/user-attachments/assets/56810dd8-165e-4eb9-bc55-6169bbf40054)
 
-
 ## Installation
 1. Clone the repo
 2. Place the `promptblocks.zsh-theme` file in your `$ZSH_CUSTOM/themes` directory
