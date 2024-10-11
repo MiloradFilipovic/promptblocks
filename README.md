@@ -15,8 +15,7 @@ Minimal (`node.js` + `git`) theme for [oh-my-zsh](https://ohmyz.sh/).
 ### Node version managers - display live Node.js version
 If you are using a Node.js version manager, like [nvm](https://github.com/nvm-sh/nvm), node version in the prompt won't be updated when you switch. 
 
-In order to achieve this, you can create a custom function in your `~/.zshrc` file that will source your zsh config every time you change Node version.
-Note that, depending on your configuration, this will slow down the original command execution.
+In order to achieve this, you can create a custom function in your `~/.zshrc` file that will source your zsh config every time you change Node version*.
 
 If using nvm, this function can look like this:
 ```zsh
@@ -26,3 +25,5 @@ Now, you can use your new `nv` command to switch Node version and reload prompt:
 ```zsh
 nv 20
 ```
+
+* _Depending on your configuration, this will be more or less slower that using the version manager directly_
