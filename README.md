@@ -8,7 +8,8 @@ Minimal, front-end oriented, theme for [oh-my-zsh](https://ohmyz.sh/).
 ## Installation
 1. Clone the repo
 2. Place the `promptblocks.zsh-theme` file in your `$ZSH_CUSTOM/themes` directory
-3. `source ~/.zshrc`
+3. In your `~/.zshrc` file: `ZSH_THEME="promptblocks"`
+4. Reload zsh: `source ~/.zshrc`
 
 ## Misc
 ### Node version managers - display live Node.js version
