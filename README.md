@@ -1,7 +1,8 @@
 # [prompt][blocks]
 Minimal, front-end oriented, theme for [oh-my-zsh](https://ohmyz.sh/).
 
-![image](https://github.com/user-attachments/assets/bd13147b-c91a-4a48-9481-f7b3ea8d9b41)
+![image](https://github.com/user-attachments/assets/2b3521d3-5281-4c2a-8c67-2f8d9ba2c5b9)
+
 ![image](https://github.com/user-attachments/assets/56810dd8-165e-4eb9-bc55-6169bbf40054)
 
 ## Installation
