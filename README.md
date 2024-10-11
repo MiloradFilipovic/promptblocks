@@ -1,5 +1,5 @@
 # [prompt][blocks]
-Minimal, node.js + git, theme for [oh-my-zsh](https://ohmyz.sh/).
+Minimal, `node.js` + `git`, theme for [oh-my-zsh](https://ohmyz.sh/).
 
 ![image](https://github.com/user-attachments/assets/f4a30fe2-cc2e-4041-8c9e-7ae811783cbf)
 
