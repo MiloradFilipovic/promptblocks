@@ -3,7 +3,8 @@ local return_code='%(?..%{$fg[red]%}%? ↵%{$reset_color%})'
 
 function node_js_version {
     if which node &> /dev/null; then
-        echo "[%{$fg[magenta]%}node $(node -v)%{$reset_color%}] "
+        local node_version=$(node -v | sed 's/v//')  # Remove the 'v'
+        echo "[%{$fg[magenta]%}⬢ ${node_version}%{$reset_color%}] "
     fi
 }
 
